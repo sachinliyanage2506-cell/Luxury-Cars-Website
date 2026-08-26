@@ -13,7 +13,7 @@ Page 4 - Contact.html
 Page 5 - References.html
 Page 6 - Metapage.html
 
-To see the design layout, check the other section within the repository.
+To see the design layout, check the file within the repository named Report Page.docx.
 
 Tech Stack
 - HTML/CSS

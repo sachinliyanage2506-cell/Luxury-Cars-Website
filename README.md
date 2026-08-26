@@ -3,7 +3,9 @@
 How to Use:
 - Download and extract the folder and then run it on any source code editor that allows for HTML and CSS, preferably use Visual Studio Code as this is where I made it in.
 
-Overview: The project is a 6 page website showcasing different kinds of cars and their uses through things like comfort, film and speed. Along with additional pages such as meta page and reference page to attribute information that was taken from other authors and display the design process and website pathways. Finally, a fake contact's page was used to imitate how users in real life can contact the website's author to get more information:
+Overview: The project is a 6 page website showcasing different kinds of cars and their uses through things like comfort, film and speed. Along with additional pages such as meta page and reference page to attribute information that was taken from other authors and display the design process and website pathways. Finally, a fake contact's page was used to imitate how users in real life can contact the website's author to get more information
+
+Page Layout:
 Page 1 - Index.html (Main Page): Home page
 Page 2 - Speed.html
 Page 3 - Vintage.html
@@ -11,7 +13,7 @@ Page 4 - Contact.html
 Page 5 - References.html
 Page 6 - Metapage.html
 
-To see the design layout
+To see the design layout, check the other section within the repository.
 
 Tech Stack
 - HTML/CSS
@@ -22,9 +24,3 @@ Possible Future Improvements
 
 Author
 - Sachin Liyanage
-
-License 
-- This project is available for educational purposes
-
-
-
